@@ -1,0 +1,14 @@
+C:\Coding_projects\TypeTest\bin\Debug\net10.0\TypeTest.exe
+C:\Coding_projects\TypeTest\bin\Debug\net10.0\TypeTest.deps.json
+C:\Coding_projects\TypeTest\bin\Debug\net10.0\TypeTest.runtimeconfig.json
+C:\Coding_projects\TypeTest\bin\Debug\net10.0\TypeTest.dll
+C:\Coding_projects\TypeTest\bin\Debug\net10.0\TypeTest.pdb
+C:\Coding_projects\TypeTest\obj\Debug\net10.0\TypeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_projects\TypeTest\obj\Debug\net10.0\TypeTest.AssemblyInfoInputs.cache
+C:\Coding_projects\TypeTest\obj\Debug\net10.0\TypeTest.AssemblyInfo.cs
+C:\Coding_projects\TypeTest\obj\Debug\net10.0\TypeTest.csproj.CoreCompileInputs.cache
+C:\Coding_projects\TypeTest\obj\Debug\net10.0\TypeTest.dll
+C:\Coding_projects\TypeTest\obj\Debug\net10.0\refint\TypeTest.dll
+C:\Coding_projects\TypeTest\obj\Debug\net10.0\TypeTest.pdb
+C:\Coding_projects\TypeTest\obj\Debug\net10.0\TypeTest.genruntimeconfig.cache
+C:\Coding_projects\TypeTest\obj\Debug\net10.0\ref\TypeTest.dll
